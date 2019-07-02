@@ -8,6 +8,12 @@
       "script": "start",
       "path": "github-finder/",
       "problemMatcher": []
+    },
+    {
+      "type": "npm",
+      "script": "server",
+      "path": "contact-keeper/",
+      "problemMatcher": []
     }
   ]
 }
